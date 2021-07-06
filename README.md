@@ -1,0 +1,2 @@
+# ordinario
+examen- programacion distribuida
